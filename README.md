@@ -46,9 +46,9 @@ Designed a two-page interactive Power BI report, including:
 - Transaction by Staff
 - Quantity Sold by Product
 
-![NaijaPhone Sales Analysis](naijaphone-sales-dashboard.png)
+![NaijaPhone Sales Analysis](Naijaphone-sales-dashboard.png)
 
-![NaijaPhone Sales Performance](naijaphone-sales-dashboard-2.png)
+![NaijaPhone Sales Performance](Naijaphone-sales-dashboard-2.png)
 
 ## Insight and Findings
 - Total revenue for the year reached 13M, across 918 transactions from 762 customers, with an average order value of 13.94K.
