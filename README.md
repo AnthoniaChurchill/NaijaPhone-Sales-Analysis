@@ -53,9 +53,9 @@ Designed a two-page interactive Power BI report, including:
 - Total revenue for the year reached 13M, across 918 transactions from 762 customers, with an average order value of 13.94K.
 - Revenue was fairly spread across cities, with Kano, Ibadan, and Jos among the strongest-performing locations.
 - Bank transfer and USSD were the most used payment methods, well ahead of cash, POS, card, and ATM.
-- Laptop Bag was the top revenue-generating product at $2,988,879, followed by Bluetooth Speaker ($2,247,251) and Power Bank ($1,594,327).
+- Laptop Bag was the top revenue-generating product at #2,988,879, followed by Bluetooth Speaker (#2,247,251) and Power Bank (#1,594,327).
 - Lower-priced accessories like Phone Case, Mouse, and Hdmi Cable generated the least revenue individually, despite steady sales volume.
-- Total product revenue across all items reached $12,799,855 for the period analyzed.
+- Total product revenue across all items reached #12,799,855 for the period analyzed.
 - Staff performance varied notably, with a small group of staff members driving a disproportionate share of both revenue and transaction volume.
 
 ## Recommendations
