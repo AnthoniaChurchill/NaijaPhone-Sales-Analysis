@@ -47,6 +47,7 @@ Designed a two-page interactive Power BI report, including:
 - Quantity Sold by Product
 
 ![NaijaPhone Sales Analysis](naijaphone-sales-dashboard.png)
+
 ![NaijaPhone Sales Performance](naijaphone-sales-dashboard-2.png)
 
 ## Insight and Findings
